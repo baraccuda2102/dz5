@@ -55,17 +55,69 @@
 }
 
 .block2{
-    border:15px solid#000;
-    padding: 75px;
+    border:15px solid#c95da0;
+    
 }
 
 .block3{
     width: 150px;
     height: 150px;
     font-size: 50px;
+    background-color: #e38;
     display: inline-block;
-    
+}
 
+.clear{
+    clear:both;
+}
+
+.one{
+    float: left;
+}
+
+.two{
+    float: right;
+}
+
+.block5{
+    border: 15px solid #e71818;
+    
+}
+
+.block{
+    position: relative;
+}
+
+.block4{
+    width: 150px;
+    height: 150px;
+    font-size: 50px;
+    background-color: #e38;
+    display: inline-block;
+   
+}
+
+.clear{
+    clear: both;
+}
+
+.three{
+    float: left;
+}
+
+.four{
+    float: left;
+    margin-left: 10px;
+   }
+
+
+.six{
+    float:right;
+}
+
+.five{
+    float: right;
+    margin-left: 10px;
 }
 
 
